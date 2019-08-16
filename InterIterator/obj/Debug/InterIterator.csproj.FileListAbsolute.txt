@@ -1,0 +1,7 @@
+C:\Users\Falcon\source\repos\InterIterator\InterIterator\bin\Debug\InterIterator.exe.config
+C:\Users\Falcon\source\repos\InterIterator\InterIterator\bin\Debug\InterIterator.exe
+C:\Users\Falcon\source\repos\InterIterator\InterIterator\bin\Debug\InterIterator.pdb
+C:\Users\Falcon\source\repos\InterIterator\InterIterator\obj\Debug\InterIterator.csprojAssemblyReference.cache
+C:\Users\Falcon\source\repos\InterIterator\InterIterator\obj\Debug\InterIterator.csproj.CoreCompileInputs.cache
+C:\Users\Falcon\source\repos\InterIterator\InterIterator\obj\Debug\InterIterator.exe
+C:\Users\Falcon\source\repos\InterIterator\InterIterator\obj\Debug\InterIterator.pdb
